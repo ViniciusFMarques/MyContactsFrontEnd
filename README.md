@@ -2,6 +2,18 @@
 
 This is the front end of 'My Contacts' project.
 
+# Objective
+
+My objective with this project, developed on Jstack course, was learning some key concepts of React and front end development like:
+
+- Usage of react hooks
+- Usage of forms on react
+- Usage of HTTP requests from front end to back end
+- Usage of some design patterns like data mappers and container/presentational
+- Usage of styled components for stylization
+- Usage of component animations with keyframes
+- Usage of error handling
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
